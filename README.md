@@ -6,12 +6,12 @@ Course info: [Link](https://www.unibo.it/en/study/course-units-transferable-skil
 
 Teacher: [Enrico Gallinucci](https://www.unibo.it/sitoweb/enrico.gallinucci/en)
 
-Last update: 21/10/2025
+Last update: 28/10/2025 (added 102 code)
 
 ## READMEs
 
 Code and instructions for every laboratory will be released progressively. With each release, a new README file will be published under the "readmes" folder.
-- [101 Spark basics](readmes/101)
+- [101 Spark basics](readmes/101.md)
 
 Additional readmes:
 - [Exam Project](readmes/project.md) (instructions for the project, that is mandatory for the exam)
