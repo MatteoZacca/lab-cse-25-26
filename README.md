@@ -6,16 +6,17 @@ Course info: [Link](https://www.unibo.it/en/study/course-units-transferable-skil
 
 Teacher: [Enrico Gallinucci](https://www.unibo.it/sitoweb/enrico.gallinucci/en)
 
-Last update: 05/11/2025 (added 102 full solutions)
+Last update: 18/11/2025 (added 104)
 
 ## READMEs
 
 Code and instructions for every laboratory will be released progressively. With each release, a new README file will be published under the "readmes" folder.
 - [101 Spark basics](readmes/101.md)
+- [104 Deploying Spark](readmes/deploying-spark.md)
 
 Additional readmes:
 - [Exam Project](readmes/project.md) (instructions for the project, that is mandatory for the exam)
-<!-- - [Spark Setup](readmes/spark-setup.md) (instructions to install and configure Apache Spark, and to run notebooks and jobs) -->
+- [Spark Setup](readmes/spark-setup.md) (instructions to install and configure Apache Spark, and to run notebooks and jobs)
 
 ## IntelliJ IDEA Ultimate license
 

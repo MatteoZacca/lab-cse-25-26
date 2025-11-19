@@ -5,6 +5,8 @@ metastore_db/
 output/
 datasets/big/
 *.ppk
+aws/credentials
+aws/keys/*
 
 # Created by https://www.gitignore.io/api/java,linux,macos,gradle,windows,eclipse,intellij
 # Edit at https://www.gitignore.io/?templates=java,linux,macos,gradle,windows,eclipse,intellij
